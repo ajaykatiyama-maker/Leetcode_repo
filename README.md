@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
