@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0049-group-anagrams) |
 | [0856-score-of-parentheses](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0049-group-anagrams) |
 ## Greedy
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
