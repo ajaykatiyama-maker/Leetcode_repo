@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0054-spiral-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Backtracking
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0054-spiral-matrix) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
