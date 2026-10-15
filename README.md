@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
