@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0061-rotate-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0060-permutation-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
