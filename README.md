@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0062-unique-paths) |
 ## String
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0061-rotate-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
