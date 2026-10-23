@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0066-plus-one) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
