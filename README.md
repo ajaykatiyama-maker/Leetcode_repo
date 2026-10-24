@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0068-text-justification) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0068-text-justification) |
 | [0856-score-of-parentheses](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2409-count-days-spent-together](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2409-count-days-spent-together) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0068-text-justification) |
 ## Bracket Sequences
 |  |
 | ------- |
