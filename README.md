@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0068-text-justification) |
+| [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0064-minimum-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
