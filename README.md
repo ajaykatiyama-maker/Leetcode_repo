@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0069-sqrtx) |
 | [2409-count-days-spent-together](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
@@ -157,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
