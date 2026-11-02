@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0068-text-justification) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0069-sqrtx) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
