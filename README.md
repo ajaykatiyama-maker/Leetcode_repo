@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1882-process-tasks-using-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
