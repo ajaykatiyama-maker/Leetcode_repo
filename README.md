@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0068-text-justification) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1882-process-tasks-using-servers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -166,17 +168,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
@@ -200,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
