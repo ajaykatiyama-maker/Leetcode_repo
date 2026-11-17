@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0061-rotate-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0064-minimum-path-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2409-count-days-spent-together](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
