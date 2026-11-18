@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2409-count-days-spent-together](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
