@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1882-process-tasks-using-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0064-minimum-path-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
