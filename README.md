@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3693-climbing-stairs-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3934-smallest-unique-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3934-smallest-unique-subarray) |
 ## Newton's Method
 |  |
 | ------- |
@@ -248,4 +251,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
