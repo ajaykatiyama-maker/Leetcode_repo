@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ajaykatiyama-maker/Leetcode_repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
